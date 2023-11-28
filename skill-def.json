@@ -1,0 +1,18 @@
+{
+  "name": "langchain test",
+  "summary": "Quickly demonstrate how to process text coming from digital person into custom skill",
+  "description": "Quickly demonstrate how to process text coming from digital person into custom skill",
+  "status": "ACTIVE",
+  "serviceProvider": "SKILL_API",
+  "categoryIds": [],
+  "endpointInitialize": "https://cc32-2601-601-e01-7aa0-b5c7-fe40-d1b3-bb9e.ngrok-free.app/init",
+  "endpointSession": "https://cc32-2601-601-e01-7aa0-b5c7-fe40-d1b3-bb9e.ngrok-free.app/session",
+  "endpointExecute": "https://cc32-2601-601-e01-7aa0-b5c7-fe40-d1b3-bb9e.ngrok-free.app/execute",
+  "endpointEndSession": null,
+  "endpointEndProject": null,
+  "endpointMatchIntent": null,
+  "languages": null,
+  "config": {
+    "skillType": "BASE_CORPUS"
+  }
+}
